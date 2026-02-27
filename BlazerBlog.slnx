@@ -1,5 +1,7 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="BlazingBlog.Application/BlazingBlog.Application.csproj" Id="031b4f08-8bbc-4851-b65f-a76556366743" />
+    <Project Path="BlazingBlog.Domain/BlazingBlog.Domain.csproj" Id="9aa74fc6-4f2c-41a9-ba8c-8a2217d9223f" />
     <Project Path="BlazingBlog.WebUI.Server/BlazingBlog.WebUI.Server.csproj" />
   </Folder>
 </Solution>

@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="BlazingBlog.WebUI.Server/BlazingBlog.WebUI.Server.csproj" />
+  </Folder>
+</Solution>

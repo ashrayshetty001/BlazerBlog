@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using BlazingBlog.Domain.Articles;
 
 namespace BlazingBlog.Application.Articles
 {
-    internal interface IArticleService
+    public interface IArticleService
     {
+        List<Article> GetArticles();
     }
 }

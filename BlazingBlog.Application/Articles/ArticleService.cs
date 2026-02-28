@@ -7,7 +7,7 @@ namespace BlazingBlog.Application.Articles
 {
     public class ArticleService : IArticleService
     {
-        public List<Article> GetAllArticles()
+        public List<Article> GetArticles()
         {
             return new List<Article>
             {
